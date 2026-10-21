@@ -25,6 +25,66 @@
     }
   ],
   "downloads": {
+    "xmb10": {
+      "version": "0.0.2",
+      "file_name": "downloads/Window Seat Bokeh Clouds.face",
+      "versionCode": 2,
+      "updatelogs": [
+        {
+          "version": "0.0.1",
+          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变"
+        },
+        {
+          "version": "0.0.2",
+          "content": "回退到上一版：上次更新在部分手环 11 上黑屏，先恢复原来的包"
+        }
+      ]
+    },
+    "xmb10nfc": {
+      "version": "0.0.2",
+      "file_name": "downloads/Window Seat Bokeh Clouds.face",
+      "versionCode": 2,
+      "updatelogs": [
+        {
+          "version": "0.0.1",
+          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变"
+        },
+        {
+          "version": "0.0.2",
+          "content": "回退到上一版：上次更新在部分手环 11 上黑屏，先恢复原来的包"
+        }
+      ]
+    },
+    "xmb11": {
+      "version": "0.0.2",
+      "file_name": "downloads/Window Seat Bokeh Clouds.face",
+      "versionCode": 2,
+      "updatelogs": [
+        {
+          "version": "0.0.1",
+          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变"
+        },
+        {
+          "version": "0.0.2",
+          "content": "回退到上一版：上次更新在部分手环 11 上黑屏，先恢复原来的包"
+        }
+      ]
+    },
+    "xmb11nfc": {
+      "version": "0.0.2",
+      "file_name": "downloads/Window Seat Bokeh Clouds.face",
+      "versionCode": 2,
+      "updatelogs": [
+        {
+          "version": "0.0.1",
+          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变"
+        },
+        {
+          "version": "0.0.2",
+          "content": "回退到上一版：上次更新在部分手环 11 上黑屏，先恢复原来的包"
+        }
+      ]
+    },
     "xmb10p": {
       "version": "0.0.2",
       "file_name": "downloads/Window Seat Pro.face",
@@ -60,50 +120,6 @@
         {
           "version": "0.0.2",
           "content": "修复长按切换表盘时预览图超出边框"
-        }
-      ]
-    },
-    "xmb10": {
-      "version": "0.0.1",
-      "file_name": "downloads/Window Seat Bokeh Clouds.face",
-      "versionCode": 1,
-      "updatelogs": [
-        {
-          "version": "0.0.1",
-          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变"
-        }
-      ]
-    },
-    "xmb10nfc": {
-      "version": "0.0.1",
-      "file_name": "downloads/Window Seat Bokeh Clouds.face",
-      "versionCode": 1,
-      "updatelogs": [
-        {
-          "version": "0.0.1",
-          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变"
-        }
-      ]
-    },
-    "xmb11": {
-      "version": "0.0.1",
-      "file_name": "downloads/Window Seat Bokeh Clouds.face",
-      "versionCode": 1,
-      "updatelogs": [
-        {
-          "version": "0.0.1",
-          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变"
-        }
-      ]
-    },
-    "xmb11nfc": {
-      "version": "0.0.1",
-      "file_name": "downloads/Window Seat Bokeh Clouds.face",
-      "versionCode": 1,
-      "updatelogs": [
-        {
-          "version": "0.0.1",
-          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变"
         }
       ]
     }
