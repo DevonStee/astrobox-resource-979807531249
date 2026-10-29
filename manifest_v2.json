@@ -11,7 +11,7 @@
       "media/05-预览-清晨产品.png"
     ],
     "icon": "media/01-图标-1比1.png",
-    "cover": "media/02-封面-3比2-三机.webp",
+    "cover": "media/02-封面-3比2-概念.png",
     "author": [
       {
         "name": "brin",
@@ -27,17 +27,6 @@
     }
   ],
   "downloads": {
-    "xmrw6": {
-      "version": "0.0.0",
-      "file_name": "downloads/Window Seat RW6.face",
-      "versionCode": 0,
-      "updatelogs": [
-        {
-          "version": "0.0.0",
-          "content": "新增 REDMI Watch 6 支持"
-        }
-      ]
-    },
     "xmb10": {
       "version": "0.0.3",
       "file_name": "downloads/Window Seat Bokeh Clouds.face",
@@ -157,6 +146,17 @@
         {
           "version": "0.0.3",
           "content": "加了第四景黄昏（15–19 点，沿着晨昏线飞），时段改为清晨 5–10、云海 11–14、夜 20–4；换了新机翼"
+        }
+      ]
+    },
+    "xmrw6": {
+      "version": "0.0.0",
+      "file_name": "downloads/Window Seat RW6.face",
+      "versionCode": 0,
+      "updatelogs": [
+        {
+          "version": "0.0.0",
+          "content": "新增 REDMI Watch 6 支持"
         }
       ]
     }
