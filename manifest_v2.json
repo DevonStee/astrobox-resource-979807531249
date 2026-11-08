@@ -2,7 +2,7 @@
   "item": {
     "id": "979807531249",
     "restype": "watchface",
-    "name": "WINDOW SEAT",
+    "name": "航行窗边 WINDOW SEAT",
     "description": "WINDOW SEAT_舷窗表盘_靠窗座位\n\n更新: 添加了优美的晨昏线, 减少了无聊的白云的展示时间~\n\n动态表盘, 模拟与展现实时飞行的感觉. \n\n屏幕是飞机舷窗, \n窗外按小时换景: \n早上 5 点到 10 点是正在下降的清晨, \n11 点到 14 点是阳光下的云海, \n15 点到 19 点是沿着晨昏线飞的黄昏, \n其余时间是夜航时脚下的点点城市灯光; \n\n目前支持小米手环 10 / 11 / 9 Pro / 10 Pro / REDMI Watch 6\n更新：加了 REDMI Watch 6 版\n由于 AstroBox 平台限制, 无法上传动态照片, 想看亮屏和 AOD 动画, 以及具体怎么使用的详细说明, 可以移步小红书 @叫我Brin就好",
     "preview": [
       "media/00-预览-RW6-Pro.webp",
@@ -27,6 +27,21 @@
     }
   ],
   "downloads": {
+    "xmrw6": {
+      "version": "0.0.1",
+      "file_name": "downloads/Window Seat RW6.face",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "0.0.0",
+          "content": "新增 REDMI Watch 6 支持"
+        },
+        {
+          "version": "0.0.1",
+          "content": "修正 REDMI Watch 6 屏幕四角内容被切的问题"
+        }
+      ]
+    },
     "xmb10": {
       "version": "0.0.3",
       "file_name": "downloads/Window Seat Bokeh Clouds.face",
@@ -146,17 +161,6 @@
         {
           "version": "0.0.3",
           "content": "加了第四景黄昏（15–19 点，沿着晨昏线飞），时段改为清晨 5–10、云海 11–14、夜 20–4；换了新机翼"
-        }
-      ]
-    },
-    "xmrw6": {
-      "version": "0.0.0",
-      "file_name": "downloads/Window Seat RW6.face",
-      "versionCode": 0,
-      "updatelogs": [
-        {
-          "version": "0.0.0",
-          "content": "新增 REDMI Watch 6 支持"
         }
       ]
     }
