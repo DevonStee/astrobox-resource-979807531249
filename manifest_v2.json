@@ -3,7 +3,7 @@
     "id": "979807531249",
     "restype": "watchface",
     "name": "航行窗边 WINDOW SEAT",
-    "description": "WINDOW SEAT_舷窗表盘_靠窗座位\n\n更新: 添加了优美的晨昏线, 减少了无聊的白云的展示时间~\n\n动态表盘, 模拟与展现实时飞行的感觉. \n\n屏幕是飞机舷窗, \n窗外按小时换景: \n早上 5 点到 10 点是正在下降的清晨, \n11 点到 14 点是阳光下的云海, \n15 点到 19 点是沿着晨昏线飞的黄昏, \n其余时间是夜航时脚下的点点城市灯光; \n\n目前支持小米手环 10 / 11 / 9 Pro / 10 Pro / REDMI Watch 6\n更新：加了 REDMI Watch 6 版\n由于 AstroBox 平台限制, 无法上传动态照片, 想看亮屏和 AOD 动画, 以及具体怎么使用的详细说明, 可以移步小红书 @叫我Brin就好",
+    "description": "WINDOW SEAT_舷窗表盘_靠窗座位\n\n更新: 添加了优美的晨昏线, 减少了无聊的白云的展示时间~\n\n动态表盘, 模拟与展现实时飞行的感觉. \n\n屏幕是飞机舷窗, \n窗外有四种景色: 正在下降的清晨, 阳光下的云海, 沿着晨昏线飞的黄昏, 夜航时脚下的点点城市灯光; \n点一下窗户换景色; \n\n目前支持小米手环 10 / 11 / 9 Pro / 10 Pro / REDMI Watch 6\n更新：加了 REDMI Watch 6 版\n由于 AstroBox 平台限制, 无法上传动态照片, 想看亮屏和 AOD 动画, 以及具体怎么使用的详细说明, 可以移步小红书 @叫我Brin就好",
     "preview": [
       "media/00-预览-RW6-Pro.webp",
       "media/00-预览-四景.webp",
@@ -27,10 +27,156 @@
     }
   ],
   "downloads": {
+    "xmb10": {
+      "version": "0.0.4",
+      "file_name": "downloads/Window Seat Bokeh Clouds.face",
+      "versionCode": 4,
+      "updatelogs": [
+        {
+          "version": "0.0.1",
+          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变"
+        },
+        {
+          "version": "0.0.2",
+          "content": "回退到上一版：上次更新在部分手环 11 上黑屏，先恢复原来的包"
+        },
+        {
+          "version": "0.0.3",
+          "content": "加了第四景黄昏（15–19 点，沿着晨昏线飞），时段改为清晨 5–10、云海 11–14、夜 20–4；换了更宽的窗框和新机翼"
+        },
+        {
+          "version": "0.0.4",
+          "content": "改成点一下窗户换景色, 不再按时间换景"
+        }
+      ]
+    },
+    "xmb10nfc": {
+      "version": "0.0.4",
+      "file_name": "downloads/Window Seat Bokeh Clouds.face",
+      "versionCode": 4,
+      "updatelogs": [
+        {
+          "version": "0.0.1",
+          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变"
+        },
+        {
+          "version": "0.0.2",
+          "content": "回退到上一版：上次更新在部分手环 11 上黑屏，先恢复原来的包"
+        },
+        {
+          "version": "0.0.3",
+          "content": "加了第四景黄昏（15–19 点，沿着晨昏线飞），时段改为清晨 5–10、云海 11–14、夜 20–4；换了更宽的窗框和新机翼"
+        },
+        {
+          "version": "0.0.4",
+          "content": "改成点一下窗户换景色, 不再按时间换景"
+        }
+      ]
+    },
+    "xmb11": {
+      "version": "0.0.4",
+      "file_name": "downloads/Window Seat Bokeh Clouds.face",
+      "versionCode": 4,
+      "updatelogs": [
+        {
+          "version": "0.0.1",
+          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变"
+        },
+        {
+          "version": "0.0.2",
+          "content": "回退到上一版：上次更新在部分手环 11 上黑屏，先恢复原来的包"
+        },
+        {
+          "version": "0.0.3",
+          "content": "加了第四景黄昏（15–19 点，沿着晨昏线飞），时段改为清晨 5–10、云海 11–14、夜 20–4；换了更宽的窗框和新机翼"
+        },
+        {
+          "version": "0.0.4",
+          "content": "改成点一下窗户换景色, 不再按时间换景"
+        }
+      ]
+    },
+    "xmb11nfc": {
+      "version": "0.0.4",
+      "file_name": "downloads/Window Seat Bokeh Clouds.face",
+      "versionCode": 4,
+      "updatelogs": [
+        {
+          "version": "0.0.1",
+          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变"
+        },
+        {
+          "version": "0.0.2",
+          "content": "回退到上一版：上次更新在部分手环 11 上黑屏，先恢复原来的包"
+        },
+        {
+          "version": "0.0.3",
+          "content": "加了第四景黄昏（15–19 点，沿着晨昏线飞），时段改为清晨 5–10、云海 11–14、夜 20–4；换了更宽的窗框和新机翼"
+        },
+        {
+          "version": "0.0.4",
+          "content": "改成点一下窗户换景色, 不再按时间换景"
+        }
+      ]
+    },
+    "xmb9p": {
+      "version": "0.0.4",
+      "file_name": "downloads/Window Seat Pro.face",
+      "versionCode": 4,
+      "updatelogs": [
+        {
+          "version": "0.0.0",
+          "content": "新增小米手环 9 Pro / 10 Pro 支持（方屏专用包）"
+        },
+        {
+          "version": "0.0.1",
+          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变"
+        },
+        {
+          "version": "0.0.2",
+          "content": "修复长按切换表盘时预览图超出边框"
+        },
+        {
+          "version": "0.0.3",
+          "content": "加了第四景黄昏（15–19 点，沿着晨昏线飞），时段改为清晨 5–10、云海 11–14、夜 20–4；换了新机翼"
+        },
+        {
+          "version": "0.0.4",
+          "content": "改成点一下窗户换景色, 不再按时间换景"
+        }
+      ]
+    },
+    "xmb10p": {
+      "version": "0.0.4",
+      "file_name": "downloads/Window Seat Pro.face",
+      "versionCode": 4,
+      "updatelogs": [
+        {
+          "version": "0.0.0",
+          "content": "新增小米手环 9 Pro / 10 Pro 支持（方屏专用包）"
+        },
+        {
+          "version": "0.0.1",
+          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变"
+        },
+        {
+          "version": "0.0.2",
+          "content": "修复长按切换表盘时预览图超出边框"
+        },
+        {
+          "version": "0.0.3",
+          "content": "加了第四景黄昏（15–19 点，沿着晨昏线飞），时段改为清晨 5–10、云海 11–14、夜 20–4；换了新机翼"
+        },
+        {
+          "version": "0.0.4",
+          "content": "改成点一下窗户换景色, 不再按时间换景"
+        }
+      ]
+    },
     "xmrw6": {
-      "version": "0.0.1",
+      "version": "0.0.2",
       "file_name": "downloads/Window Seat RW6.face",
-      "versionCode": 1,
+      "versionCode": 2,
       "updatelogs": [
         {
           "version": "0.0.0",
@@ -39,128 +185,10 @@
         {
           "version": "0.0.1",
           "content": "修正 REDMI Watch 6 屏幕四角内容被切的问题"
-        }
-      ]
-    },
-    "xmb10": {
-      "version": "0.0.3",
-      "file_name": "downloads/Window Seat Bokeh Clouds.face",
-      "versionCode": 3,
-      "updatelogs": [
-        {
-          "version": "0.0.1",
-          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变"
         },
         {
           "version": "0.0.2",
-          "content": "回退到上一版：上次更新在部分手环 11 上黑屏，先恢复原来的包"
-        },
-        {
-          "version": "0.0.3",
-          "content": "加了第四景黄昏（15–19 点，沿着晨昏线飞），时段改为清晨 5–10、云海 11–14、夜 20–4；换了更宽的窗框和新机翼"
-        }
-      ]
-    },
-    "xmb10nfc": {
-      "version": "0.0.3",
-      "file_name": "downloads/Window Seat Bokeh Clouds.face",
-      "versionCode": 3,
-      "updatelogs": [
-        {
-          "version": "0.0.1",
-          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变"
-        },
-        {
-          "version": "0.0.2",
-          "content": "回退到上一版：上次更新在部分手环 11 上黑屏，先恢复原来的包"
-        },
-        {
-          "version": "0.0.3",
-          "content": "加了第四景黄昏（15–19 点，沿着晨昏线飞），时段改为清晨 5–10、云海 11–14、夜 20–4；换了更宽的窗框和新机翼"
-        }
-      ]
-    },
-    "xmb11": {
-      "version": "0.0.3",
-      "file_name": "downloads/Window Seat Bokeh Clouds.face",
-      "versionCode": 3,
-      "updatelogs": [
-        {
-          "version": "0.0.1",
-          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变"
-        },
-        {
-          "version": "0.0.2",
-          "content": "回退到上一版：上次更新在部分手环 11 上黑屏，先恢复原来的包"
-        },
-        {
-          "version": "0.0.3",
-          "content": "加了第四景黄昏（15–19 点，沿着晨昏线飞），时段改为清晨 5–10、云海 11–14、夜 20–4；换了更宽的窗框和新机翼"
-        }
-      ]
-    },
-    "xmb11nfc": {
-      "version": "0.0.3",
-      "file_name": "downloads/Window Seat Bokeh Clouds.face",
-      "versionCode": 3,
-      "updatelogs": [
-        {
-          "version": "0.0.1",
-          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变"
-        },
-        {
-          "version": "0.0.2",
-          "content": "回退到上一版：上次更新在部分手环 11 上黑屏，先恢复原来的包"
-        },
-        {
-          "version": "0.0.3",
-          "content": "加了第四景黄昏（15–19 点，沿着晨昏线飞），时段改为清晨 5–10、云海 11–14、夜 20–4；换了更宽的窗框和新机翼"
-        }
-      ]
-    },
-    "xmb10p": {
-      "version": "0.0.3",
-      "file_name": "downloads/Window Seat Pro.face",
-      "versionCode": 3,
-      "updatelogs": [
-        {
-          "version": "0.0.0",
-          "content": "新增小米手环 9 Pro / 10 Pro 支持（方屏专用包）"
-        },
-        {
-          "version": "0.0.1",
-          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变"
-        },
-        {
-          "version": "0.0.2",
-          "content": "修复长按切换表盘时预览图超出边框"
-        },
-        {
-          "version": "0.0.3",
-          "content": "加了第四景黄昏（15–19 点，沿着晨昏线飞），时段改为清晨 5–10、云海 11–14、夜 20–4；换了新机翼"
-        }
-      ]
-    },
-    "xmb9p": {
-      "version": "0.0.3",
-      "file_name": "downloads/Window Seat Pro.face",
-      "versionCode": 3,
-      "updatelogs": [
-        {
-          "version": "0.0.0",
-          "content": "新增小米手环 9 Pro / 10 Pro 支持（方屏专用包）"
-        },
-        {
-          "version": "0.0.1",
-          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变"
-        },
-        {
-          "version": "0.0.2",
-          "content": "修复长按切换表盘时预览图超出边框"
-        },
-        {
-          "version": "0.0.3",
-          "content": "加了第四景黄昏（15–19 点，沿着晨昏线飞），时段改为清晨 5–10、云海 11–14、夜 20–4；换了新机翼"
+          "content": "改成点一下窗户换景色, 不再按时间换景"
         }
       ]
     }
